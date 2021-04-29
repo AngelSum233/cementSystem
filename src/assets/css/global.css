@@ -1,0 +1,15 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 800px;
+}
+.el-card{
+  background-color: #ffffffde;
+  height: 100%;
+}
+.el-table{
+  /* min-width: 1200px; */
+}
